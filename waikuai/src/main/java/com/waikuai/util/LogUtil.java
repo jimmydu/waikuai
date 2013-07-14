@@ -3,9 +3,9 @@ package com.waikuai.util;
 import org.apache.log4j.Logger;
 
 public class LogUtil {
-	private Logger logger = Logger.getLogger("");
+	private static Logger logger = Logger.getLogger("");
 
-	public Logger getLogger() {
+	public static Logger getLogger() {
 		if (logger == null) {
 			return Logger.getLogger("");
 		}
