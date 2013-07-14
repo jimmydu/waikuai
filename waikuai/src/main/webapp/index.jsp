@@ -7,6 +7,7 @@
 <body>
 	<center>
 		<h2>不赚外快会死......吗？</h2>
+		<h2><a href="/waikuai/home.html">主页</a></h2>
 	</center>
 </body>
 </html>

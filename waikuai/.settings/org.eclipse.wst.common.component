@@ -2,6 +2,7 @@
     <wb-module deploy-name="waikuai">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
         <property name="context-root" value="waikuai"/>
         <property name="java-output-path" value="/waikuai/target/classes"/>
     </wb-module>
