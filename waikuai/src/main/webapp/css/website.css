@@ -74,7 +74,7 @@ body {
 	z-index: 9;
 }
 
-.carousel-control {
+#carousel-control,.carousel-control {
 	height: 80px;
 	margin-top: 0;
 	font-size: 120px;
@@ -96,7 +96,7 @@ body {
 	height: 500px;
 }
 
-.carousel-caption {
+#carousel-caption,.carousel-caption {
 	background-color: transparent;
 	position: static;
 	max-width: 550px;
