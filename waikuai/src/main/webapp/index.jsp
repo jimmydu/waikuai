@@ -8,7 +8,7 @@
 	<center>
 		<h2>不赚外快会死......吗？</h2>
 		<h3>会！</h3>
-		<h2><a href="/waikuai/home.html">主页</a></h2>
+		<h2><a href="page/homepage.html">主页</a></h2>
 	</center>
 </body>
 </html>
