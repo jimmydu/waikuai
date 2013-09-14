@@ -5,6 +5,10 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 </head>
 <body>
+<%
+    String redirectURL = "page/homepage.html";
+    response.sendRedirect(redirectURL);
+%>
 	<center>
 		<h2>不赚外快会死......吗？</h2>
 		<h3>会！</h3>
